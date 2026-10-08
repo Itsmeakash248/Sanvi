@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Hanger Hook -->
+    <path
+        android:pathData="M54,28 C51.2,28 49,30.2 49,33 C49,35.5 50.8,37.6 53.2,37.9 L53.2,40 L40.5,45.8 C39.6,46.2 39,47.1 39,48.1 C39,49.8 40.7,51 42.3,50.3 L54,45 L65.7,50.3 C67.3,51 69,49.8 69,48.1 C69,47.1 68.4,46.2 67.5,45.8 L54.8,40 L54.8,37.9 C56.6,37.5 58,35.9 58,34 C58,31.8 56.2,30 54,30 C52.9,30 51.9,30.4 51.2,31.2"
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    
+    <!-- Stylized Dress / Shirt Silhouette -->
+    <path
+        android:pathData="M43,51 L36,60 C35.4,60.8 35.8,62 36.8,62 L40,62 L38,78 C37.8,79.1 38.6,80 39.8,80 L68.2,80 C69.4,80 70.2,79.1 70,78 L68,62 L71.2,62 C72.2,62 72.6,60.8 72,60 L65,51 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Fashion Label Accent Strip -->
+    <path
+        android:pathData="M48,56 L60,56 L59,62 L49,62 Z"
+        android:fillColor="#FCD34D" />
+
+    <!-- Center Button Accents -->
+    <path
+        android:pathData="M54,66 A1.5,1.5 0 1,1 54,69 A1.5,1.5 0 1,1 54,66 M54,72 A1.5,1.5 0 1,1 54,75 A1.5,1.5 0 1,1 54,72"
+        android:fillColor="#6366F1" />
+
+    <!-- Star / Sparkle Accent -->
+    <path
+        android:pathData="M73,34 L74.2,37.2 L77.5,38.5 L74.2,39.8 L73,43 L71.8,39.8 L68.5,38.5 L71.8,37.2 Z"
+        android:fillColor="#FDE047" />
+</vector>

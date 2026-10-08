@@ -1,0 +1,6 @@
+{
+  "name": "Sanvi Clothing",
+  "description": "Point-of-Sale, billing, and inventory management for Sanvi Clothing Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
